@@ -31,8 +31,8 @@ minima:
 
     # Mastodon instances
     mastodon:
-     - username: LWFlouisa
-       instance: https://pawoo.net
+     # - username: LWFlouisa
+     #   instance: https://pawoo.net
     # - username: jekyll2
     #   instance: example.com
 

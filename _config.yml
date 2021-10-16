@@ -13,17 +13,17 @@ minima:
 
   # generate social links in footer
   social_links:
-    # twitter: FlouisaLW
-    # github:  LWFlouisa
+    twitter: FlouisaLW
+    github:  LWFlouisa
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
-    # instagram: sarahrweaver
+    instagram: sarahrweaver
     # linkedin: jekyll
-    # pinterest: jekyll
+    pinterest: LWFlouisa
     # youtube: 
-    # youtube_channel: UC0STgldrphgGmXK6N-pdSkA
+    youtube_channel: UC0STgldrphgGmXK6N-pdSkA
     # youtube_channel_name: CloudCannon
     # telegram: jekyll
     # googleplus: +jekyll

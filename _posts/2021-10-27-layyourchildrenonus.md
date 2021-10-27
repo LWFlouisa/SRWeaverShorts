@@ -1,7 +1,7 @@
 ---
 title: "Lay Your Children On Us"
 author: SRWeaver
-tags: limitedapocalypse vampirefolk prototype
+tags: neonapoleonic prototype
 layout: post
 ---
 Even if you generally agreed with the sentiments expressed in government propaganda slogans, it still would weird you out, if they were placed on the back of your favorite cereal. You might think this is just an exaggeration, but consider the fact that when this one Journalist from Russia today reported on things US media doesn't cover about Venezuela, the idea of our country slipping into a kind of covert fascism, stamping the American constitution on the back of a bag of beans doesn't seem to far off.

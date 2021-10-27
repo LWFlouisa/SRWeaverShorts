@@ -1,6 +1,6 @@
 ---
 title: "Duality Of Centuries"
-author: SRWeaver
+author: LWFlouisa
 tags: esagara woodenshoes prototype
 ---
 <i>A reincarnation romance and erogurotensei prototype.</i>

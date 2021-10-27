@@ -3,6 +3,8 @@ title: "Duality Of Centuries"
 author: SRWeaver
 tags: esagara woodenshoes prototype
 ---
+<i>A reincarnation romance and erogurotensei prototype.</i>
+
 She had just returned home from the school cart. With her little school bag, her tattered dress, and her little wooden clogs she tap danced to the door. Then gently pet her cat on the head, before walking in. 'What took you so long?' said the cat. Lisa placed her back on the table, and picked the cat up.
 
 'It always takes a while for my cart.' she said. In this neck of the woods, there was only horses and carriages unlike even just a few blocks later down the sidewalks. In the other district, even just a little bit further from her house, sometimes you will see carts riding in the same road as current hybrid car models. This was her luck, if she had been raised in any house further she would have enjoyed the benefits of the city. Because her neck of the woods was stuck in the late 19th century, there was no homework to be had. Thus most of the rest of the day was usually spent being bored.

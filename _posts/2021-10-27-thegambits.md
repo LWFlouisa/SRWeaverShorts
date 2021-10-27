@@ -1,7 +1,7 @@
 ---
 title: "We Are The Parasites"
 author: SRWeaver
-tags: limitedapocalypse prototype
+tags: limitedapocalypse abstractmonster prototype
 layout: post
 ---
 ### Moments

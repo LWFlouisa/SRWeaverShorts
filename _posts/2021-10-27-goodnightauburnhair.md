@@ -1,7 +1,8 @@
 ---
 title: "Goodnight Auburn Hair"
 author: SRWeaver
-tags: neonapoleonoc
+tags: neonapoleonic prototype
+layout: post
 ---
 It was never easy for her remember things.
 
